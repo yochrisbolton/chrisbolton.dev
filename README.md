@@ -1,27 +1,27 @@
-Check out this *fancy* HTML and CSS in SVG trick for embedding rich content in markdown files
-
 <svg fill="none" viewBox="0 0 800 300" width="800" height="300" xmlns="http://www.w3.org/2000/svg">
   <rect fill="#05010D" stroke="#05010D" width="100%" height="100%"></rect>
   <foreignObject width="100%" height="100%">
-    <div class="container">
-      <div class="center">
-        <p class="header">
-          Yo 👋,
-          <br>
-          I'm Chris Bolton
-        </p>
-        <p>I make a lot of stuff. Sometimes it's cool, sometimes it's weird - but it's <i>always</i> fun.</p>
-        <ul>
-          <li>
-            <a href="https://www.linkedin.com/in/yochrisbolton/" target="_blank">LinkedIn</a>
-          </li>
-          <li>
-            <a href="https://github.com/yochrisbolton" target="_blank">GitHub</a>
-          </li>
-          <li>
-            <a href="mailto:hello@chrisbolton.dev">Contact</a>
-          </li>
-        </ul>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div class="container">
+        <div class="center">
+          <p class="header">
+            Yo 👋,
+            <br>
+            I'm Chris Bolton
+          </p>
+          <p>I make a lot of stuff. Sometimes it's cool, sometimes it's weird - but it's <i>always</i> fun.</p>
+          <ul>
+            <li>
+              <a href="https://www.linkedin.com/in/yochrisbolton/" target="_blank">LinkedIn</a>
+            </li>
+            <li>
+              <a href="https://github.com/yochrisbolton" target="_blank">GitHub</a>
+            </li>
+            <li>
+              <a href="mailto:hello@chrisbolton.dev">Contact</a>
+            </li>
+          </ul>
+        </div>
       </div>
       <style>
         .container {
