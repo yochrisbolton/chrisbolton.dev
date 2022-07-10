@@ -1,3 +1,5 @@
+<img src="landing.svg">
+
 A Tech Lead, Development Manager, and burrito aficionado 🌯 with broad technology experience
 
 I'm into a wide range of subjects, covering both software and real-world problems - including things like:
@@ -6,6 +8,6 @@ I'm into a wide range of subjects, covering both software and real-world problem
  - interactive generative media (ex using GANs and language models)
  - small to medium sized business logistics, vendor and warehouse management
 
- Check out this *fancy* rich snippit SVG element that is rendering HTML and CSS!
+ Check out that *fancy* rich snippit SVG element! Its using HTML and CSS, and being rendered as an image.
 
-<img src="landing.svg">
+
