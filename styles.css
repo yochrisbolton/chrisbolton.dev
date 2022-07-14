@@ -27,6 +27,7 @@ h1 {
   z-index: 1;
   position: relative;
   padding: 20px;
+  overflow-x: clip;
 }
 
 p {
