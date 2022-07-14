@@ -40,7 +40,6 @@ p {
 p, h1 {
   position: relative;
   z-index: 1;
-  text-shadow: 3px 4px 21px #05010D;
 }
 
 ul {
@@ -63,4 +62,12 @@ canvas {
   position: absolute;
   right: -70px;
   top: -290px;
+}
+
+.name {
+  background: linear-gradient(244.91deg, #FD51A4 15.94%, #F25757 48.55%, #FB8745 84.06%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
 }
