@@ -26,6 +26,7 @@ h1 {
   margin: auto auto;
   z-index: 1;
   position: relative;
+  padding: 20px;
 }
 
 p {
